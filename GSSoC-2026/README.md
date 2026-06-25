@@ -23,7 +23,6 @@ GSSoC-2026/
 ├── Merged-PRs/
 ├── Badges/
 ├── Screenshots/
-└── Resources/
 ```
 
 ---
